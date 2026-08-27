@@ -13,7 +13,7 @@ updates:
       minor-actions-dependencies:
         update-types: [minor, patch]
   
-  - package-ecosystem: "npm"
+  - package-ecosystem: "npm"105276471
     directory: "/"
     schedule:
       interval: "daily" 
